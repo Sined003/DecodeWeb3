@@ -1,5 +1,5 @@
 
-# DecodeWeb3
+# Decode Web3
 
 **Decode Solana Web3**
 
